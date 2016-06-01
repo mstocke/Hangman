@@ -22,6 +22,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *letterLabel8;
 @property (weak, nonatomic) IBOutlet UILabel *letterLabel9;
 @property (weak, nonatomic) IBOutlet UILabel *letterLabel10;
+
 @property (weak, nonatomic) IBOutlet UITextField *inputTextField;
 @property (weak, nonatomic) IBOutlet UIButton *guessButton;
 
